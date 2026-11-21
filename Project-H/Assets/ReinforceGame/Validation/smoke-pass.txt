@@ -1,0 +1,20 @@
+Bootstrap instantiated the workshop from settings
+Six free products spawned at fixed supply pivots
+Selected product grips to the Engineer left hand
+Held item places on workbench pivot
+A successful strike increases upgrade level
+A downgrade decreases upgrade level
+Downgrade at zero remains at zero
+Destruction removes the product
+Storage docks the upgraded item to the selected pivot
+Round cannot advance below the quota
+TAKE retrieves the workbench item
+Selling credits the upgrade value
+Meeting quota advances and resets round sales
+Next round preserves storage and refills all six supply items
+Save/load restores round state and stored upgrades
+Camera shows arms and hammer while hiding the complete body
+Round attempts have no spending or attempt budget
+Rendered first-person camera view
+Rendered supply-rack camera view
+Rendered storage-rack camera view

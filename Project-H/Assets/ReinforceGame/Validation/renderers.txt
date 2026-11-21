@@ -1,0 +1,77 @@
+Sealed floor layer=0 bounds=Center: (0.00, -0.10, 0.00), Extents: (3.00, 0.10, 3.00) material=Charcoal concrete
+Sealed ceiling layer=0 bounds=Center: (0.00, 3.30, 0.00), Extents: (3.00, 0.10, 3.00) material=Charcoal concrete
+Solid wall - no exit layer=0 bounds=Center: (-3.00, 1.60, 0.00), Extents: (0.10, 1.60, 3.00) material=Charcoal concrete
+Solid wall - no exit layer=0 bounds=Center: (0.00, 1.60, -3.00), Extents: (3.00, 1.60, 0.10) material=Charcoal concrete
+Solid wall - no exit layer=0 bounds=Center: (3.00, 1.60, 0.00), Extents: (0.10, 1.60, 3.00) material=Charcoal concrete
+Solid wall - no exit layer=0 bounds=Center: (0.00, 1.60, 3.00), Extents: (3.00, 1.60, 0.10) material=Charcoal concrete
+Floor seam layer=0 bounds=Center: (-2.00, 0.00, 0.00), Extents: (0.01, 0.00, 3.00) material=Black steel
+Floor seam layer=0 bounds=Center: (-1.00, 0.00, 0.00), Extents: (0.01, 0.00, 3.00) material=Black steel
+Floor seam layer=0 bounds=Center: (0.00, 0.00, 0.00), Extents: (0.01, 0.00, 3.00) material=Black steel
+Floor seam layer=0 bounds=Center: (1.00, 0.00, 0.00), Extents: (0.01, 0.00, 3.00) material=Black steel
+Floor seam layer=0 bounds=Center: (2.00, 0.00, 0.00), Extents: (0.01, 0.00, 3.00) material=Black steel
+Pendant housing layer=0 bounds=Center: (0.00, 2.93, 1.20), Extents: (0.33, 0.06, 0.18) material=Warm brass
+Pendant cable layer=0 bounds=Center: (0.00, 3.10, 1.20), Extents: (0.01, 0.18, 0.01) material=Black steel
+Engineer_ArmLeft layer=31 bounds=Center: (-0.25, 1.18, -0.17), Extents: (0.23, 0.26, 0.45) material=engineer
+Engineer_ArmRight layer=30 bounds=Center: (0.25, 1.20, -0.17), Extents: (0.24, 0.29, 0.45) material=engineer
+Engineer_Backpack layer=31 bounds=Center: (-0.05, 0.81, -0.88), Extents: (0.41, 0.45, 0.21) material=engineer
+Engineer_Body layer=31 bounds=Center: (-0.03, 0.81, -0.45), Extents: (0.46, 0.44, 0.38) material=engineer
+Engineer_Goggles layer=31 bounds=Center: (-0.02, 1.84, -0.47), Extents: (0.53, 0.41, 0.51) material=engineer
+Engineer_Head layer=31 bounds=Center: (0.00, 1.55, -0.41), Extents: (0.57, 0.72, 0.53) material=engineer
+Engineer_LegLeft layer=31 bounds=Center: (-0.17, 0.19, -0.41), Extents: (0.12, 0.35, 0.27) material=engineer
+Engineer_LegRight layer=31 bounds=Center: (0.17, 0.19, -0.41), Extents: (0.12, 0.35, 0.27) material=engineer
+shield_round(Clone) layer=0 bounds=Center: (-0.31, 1.23, 0.09), Extents: (0.40, 0.40, 0.12) material=knight
+UpgradeHammer layer=30 bounds=Center: (0.31, 1.52, 0.04), Extents: (0.14, 0.17, 0.12) material=Hammer_Palette
+Workbench oak slab layer=0 bounds=Center: (0.00, 0.94, 1.50), Extents: (1.30, 0.09, 0.60) material=Workbench oak
+Bench steel leg layer=0 bounds=Center: (-1.05, 0.44, 1.07), Extents: (0.06, 0.44, 0.06) material=Black steel
+Bench steel leg layer=0 bounds=Center: (-1.05, 0.44, 1.93), Extents: (0.06, 0.44, 0.06) material=Black steel
+Bench steel leg layer=0 bounds=Center: (1.05, 0.44, 1.07), Extents: (0.06, 0.44, 0.06) material=Black steel
+Bench steel leg layer=0 bounds=Center: (1.05, 0.44, 1.93), Extents: (0.06, 0.44, 0.06) material=Black steel
+REINFORCE layer=0 bounds=Center: (0.00, 1.06, 1.40), Extents: (0.55, 0.03, 0.33) material=Black steel
+TAKE item layer=0 bounds=Center: (-0.95, 1.09, 1.04), Extents: (0.21, 0.06, 0.14) material=Warm brass
+TAKE layer=0 bounds=Center: (-0.95, 1.18, 1.02), Extents: (0.28, 0.06, 0.10) material=Font Material
+SELL tray layer=0 bounds=Center: (1.00, 1.07, 1.45), Extents: (0.24, 0.04, 0.28) material=Storage enamel
+SELL layer=0 bounds=Center: (1.00, 1.13, 1.43), Extents: (0.30, 0.07, 0.12) material=Font Material
+REINFORCE layer=0 bounds=Center: (0.00, 1.09, 1.80), Extents: (0.64, 0.05, 0.11) material=Font Material
+Rack backing layer=0 bounds=Center: (-2.45, 1.50, 0.35), Extents: (0.07, 1.13, 1.20) material=Workbench oak
+sword_1handed(Clone) layer=0 bounds=Center: (-2.25, 1.95, -0.38), Extents: (0.02, 0.31, 0.09) material=knight
+sword_1handed(Clone) layer=0 bounds=Center: (-2.25, 1.95, -0.38), Extents: (0.02, 0.31, 0.09) material=knight
+Mount 1 layer=0 bounds=Center: (-2.32, 1.65, -0.38), Extents: (0.16, 0.04, 0.31) material=Black steel
+axe_1handed(Clone) layer=0 bounds=Center: (-2.25, 1.95, 0.35), Extents: (0.05, 0.31, 0.18) material=barbarian
+axe_1handed(Clone) layer=0 bounds=Center: (-2.25, 1.95, 0.35), Extents: (0.05, 0.31, 0.18) material=barbarian
+Mount 2 layer=0 bounds=Center: (-2.32, 1.65, 0.35), Extents: (0.16, 0.04, 0.31) material=Black steel
+shield_round(Clone) layer=0 bounds=Center: (-2.25, 1.95, 1.08), Extents: (0.12, 0.31, 0.31) material=knight
+shield_round(Clone) layer=0 bounds=Center: (-2.25, 1.95, 1.08), Extents: (0.12, 0.31, 0.31) material=knight
+Mount 3 layer=0 bounds=Center: (-2.32, 1.65, 1.08), Extents: (0.16, 0.04, 0.31) material=Black steel
+staff(Clone) layer=0 bounds=Center: (-2.25, 1.05, -0.38), Extents: (0.05, 0.40, 0.11) material=mage
+staff(Clone) layer=0 bounds=Center: (-2.25, 1.05, -0.38), Extents: (0.05, 0.40, 0.11) material=mage
+staff(Clone) layer=0 bounds=Center: (-2.25, 1.05, -0.38), Extents: (0.05, 0.40, 0.11) material=mage
+Mount 4 layer=0 bounds=Center: (-2.32, 0.75, -0.38), Extents: (0.16, 0.04, 0.31) material=Black steel
+dagger(Clone) layer=0 bounds=Center: (-2.25, 1.05, 0.35), Extents: (0.04, 0.31, 0.07) material=rogue
+dagger(Clone) layer=0 bounds=Center: (-2.25, 1.05, 0.35), Extents: (0.04, 0.31, 0.07) material=rogue
+dagger(Clone) layer=0 bounds=Center: (-2.25, 1.05, 0.35), Extents: (0.04, 0.31, 0.07) material=rogue
+Mount 5 layer=0 bounds=Center: (-2.32, 0.75, 0.35), Extents: (0.16, 0.04, 0.31) material=Black steel
+engineer_Wrench(Clone) layer=0 bounds=Center: (-2.25, 1.05, 1.08), Extents: (0.05, 0.31, 0.15) material=engineer
+engineer_Wrench(Clone) layer=0 bounds=Center: (-2.25, 1.05, 1.08), Extents: (0.05, 0.31, 0.15) material=engineer
+engineer_Wrench(Clone) layer=0 bounds=Center: (-2.25, 1.05, 1.08), Extents: (0.05, 0.31, 0.15) material=engineer
+Mount 6 layer=0 bounds=Center: (-2.32, 0.75, 1.08), Extents: (0.16, 0.04, 0.31) material=Black steel
+SUPPLY / FREE layer=0 bounds=Center: (-2.31, 2.76, 0.35), Extents: (0.00, 0.17, 1.16) material=Font Material
+Rack backing layer=0 bounds=Center: (2.45, 1.50, 0.35), Extents: (0.07, 1.13, 1.20) material=Storage enamel
+axe_1handed(Clone) layer=0 bounds=Center: (2.25, 1.95, 1.08), Extents: (0.05, 0.31, 0.18) material=barbarian
+axe_1handed(Clone) layer=0 bounds=Center: (2.25, 1.95, 1.08), Extents: (0.05, 0.31, 0.18) material=barbarian
+Mount 1 layer=0 bounds=Center: (2.32, 1.65, 1.08), Extents: (0.16, 0.04, 0.31) material=Black steel
+Storage slot 1 layer=0 bounds=Center: (2.34, 1.95, 1.08), Extents: (0.02, 0.37, 0.34) material=Storage enamel
+Mount 2 layer=0 bounds=Center: (2.32, 1.65, 0.35), Extents: (0.16, 0.04, 0.31) material=Black steel
+Storage slot 2 layer=0 bounds=Center: (2.34, 1.95, 0.35), Extents: (0.02, 0.37, 0.34) material=Storage enamel
+Mount 3 layer=0 bounds=Center: (2.32, 1.65, -0.38), Extents: (0.16, 0.04, 0.31) material=Black steel
+Storage slot 3 layer=0 bounds=Center: (2.34, 1.95, -0.38), Extents: (0.02, 0.37, 0.34) material=Storage enamel
+Mount 4 layer=0 bounds=Center: (2.32, 0.75, 1.08), Extents: (0.16, 0.04, 0.31) material=Black steel
+Storage slot 4 layer=0 bounds=Center: (2.34, 1.05, 1.08), Extents: (0.02, 0.37, 0.34) material=Storage enamel
+Mount 5 layer=0 bounds=Center: (2.32, 0.75, 0.35), Extents: (0.16, 0.04, 0.31) material=Black steel
+Storage slot 5 layer=0 bounds=Center: (2.34, 1.05, 0.35), Extents: (0.02, 0.37, 0.34) material=Storage enamel
+Mount 6 layer=0 bounds=Center: (2.32, 0.75, -0.38), Extents: (0.16, 0.04, 0.31) material=Black steel
+Storage slot 6 layer=0 bounds=Center: (2.34, 1.05, -0.38), Extents: (0.02, 0.37, 0.34) material=Storage enamel
+KEEP / NEXT ROUND layer=0 bounds=Center: (2.31, 2.76, 0.35), Extents: (0.00, 0.17, 1.58) material=Font Material
+NEXT ROUND switch layer=0 bounds=Center: (0.00, 1.65, 2.82), Extents: (0.63, 0.20, 0.05) material=Storage enamel
+NEXT ROUND layer=0 bounds=Center: (0.00, 1.65, 2.75), Extents: (1.03, 0.17, 0.00) material=Font Material
+THE LAST FORGE layer=0 bounds=Center: (0.00, 2.55, 2.82), Extents: (2.27, 0.29, 0.00) material=Font Material
+MEET THE QUOTA. KEEP WHAT YOU DARE. layer=0 bounds=Center: (0.00, 2.29, 2.82), Extents: (1.62, 0.09, 0.00) material=Font Material

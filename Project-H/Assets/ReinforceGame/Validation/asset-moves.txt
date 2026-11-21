@@ -1,0 +1,29 @@
+KayKit\Art\Model\UpgradeHammer.fbx -> ReinforceGame\Art\UpgradeHammer.fbx
+KayKit\Art\Model\UpgradeHammer.png -> ReinforceGame\Art\UpgradeHammer.png
+KayKit\Art\Model\HammerPalette.png -> ReinforceGame\Art\Dependencies\Art\Model\HammerPalette.png
+KayKit\Art\Model\Hammer_Palette.mat -> ReinforceGame\Art\Dependencies\Art\Model\Hammer_Palette.mat
+KayKit\Characters\Animations\Avatars\Rig_Medium_Avatar.asset -> ReinforceGame\Art\Dependencies\Characters\Animations\Avatars\Rig_Medium_Avatar.asset
+KayKit\Characters\KayKit - Adventurers (for Unity)\Materials\barbarian.mat -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Materials\barbarian.mat
+KayKit\Characters\KayKit - Adventurers (for Unity)\Materials\engineer.mat -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Materials\engineer.mat
+KayKit\Characters\KayKit - Adventurers (for Unity)\Materials\knight.mat -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Materials\knight.mat
+KayKit\Characters\KayKit - Adventurers (for Unity)\Materials\mage.mat -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Materials\mage.mat
+KayKit\Characters\KayKit - Adventurers (for Unity)\Materials\rogue.mat -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Materials\rogue.mat
+KayKit\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\axe_1handed.fbx -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\axe_1handed.fbx
+KayKit\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\dagger.fbx -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\dagger.fbx
+KayKit\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\engineer_Wrench.fbx -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\engineer_Wrench.fbx
+KayKit\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\shield_round.fbx -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\shield_round.fbx
+KayKit\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\staff.fbx -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\staff.fbx
+KayKit\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\sword_1handed.fbx -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Models\Accessories\sword_1handed.fbx
+KayKit\Characters\KayKit - Adventurers (for Unity)\Models\Characters\Engineer.fbx -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Models\Characters\Engineer.fbx
+KayKit\Characters\KayKit - Adventurers (for Unity)\Textures\Barbarian\barbarian_texture.png -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Textures\Barbarian\barbarian_texture.png
+KayKit\Characters\KayKit - Adventurers (for Unity)\Textures\Engineer\engineer_texture.png -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Textures\Engineer\engineer_texture.png
+KayKit\Characters\KayKit - Adventurers (for Unity)\Textures\Knight\knight_texture.png -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Textures\Knight\knight_texture.png
+KayKit\Characters\KayKit - Adventurers (for Unity)\Textures\Mage\mage_texture.png -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Textures\Mage\mage_texture.png
+KayKit\Characters\KayKit - Adventurers (for Unity)\Textures\Rogue\rogue_texture.png -> ReinforceGame\Art\Dependencies\Characters\KayKit - Adventurers (for Unity)\Textures\Rogue\rogue_texture.png
+KayKit\Characters\KayKit - Adventurers (for Unity)\Prefabs\Characters\Engineer.prefab -> ReinforceGame\Characters\Engineer.prefab
+KayKit\Characters\KayKit - Adventurers (for Unity)\Prefabs\Accessories\axe_1handed.prefab -> ReinforceGame\Products\axe_1handed.prefab
+KayKit\Characters\KayKit - Adventurers (for Unity)\Prefabs\Accessories\dagger.prefab -> ReinforceGame\Products\dagger.prefab
+KayKit\Characters\KayKit - Adventurers (for Unity)\Prefabs\Accessories\engineer_Wrench.prefab -> ReinforceGame\Products\engineer_Wrench.prefab
+KayKit\Characters\KayKit - Adventurers (for Unity)\Prefabs\Accessories\shield_round.prefab -> ReinforceGame\Products\shield_round.prefab
+KayKit\Characters\KayKit - Adventurers (for Unity)\Prefabs\Accessories\staff.prefab -> ReinforceGame\Products\staff.prefab
+KayKit\Characters\KayKit - Adventurers (for Unity)\Prefabs\Accessories\sword_1handed.prefab -> ReinforceGame\Products\sword_1handed.prefab

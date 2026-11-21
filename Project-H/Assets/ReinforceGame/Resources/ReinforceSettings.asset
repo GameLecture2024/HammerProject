@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6596ea807f82298469310f87dfa1c476, type: 3}
+  m_Name: ReinforceSettings
+  m_EditorClassIdentifier: 
+  workshop: {fileID: 1790466994816853103, guid: 23b465fb8a62535499585d3726024c9e, type: 3}
+  items:
+  - id: sword_1handed
+    title: Iron sword
+    prefab: {fileID: 919132149155446097, guid: c85b70d5b9e5dda4d91f7d8ad5b574db, type: 3}
+    basePrice: 35
+    displayEuler: {x: 0, y: 180, z: 0}
+    gripEuler: {x: 0, y: 180, z: 0}
+    gripOffset: {x: 0, y: 0, z: 0}
+    benchEuler: {x: 90, y: 0, z: 0}
+    size: 0.62
+  - id: axe_1handed
+    title: Forged axe
+    prefab: {fileID: 919132149155446097, guid: b242ab5d7c3a6e9429fdebd4c97536a4, type: 3}
+    basePrice: 40
+    displayEuler: {x: 0, y: 180, z: 0}
+    gripEuler: {x: 0, y: 180, z: 0}
+    gripOffset: {x: 0, y: 0, z: 0}
+    benchEuler: {x: 90, y: 0, z: 0}
+    size: 0.62
+  - id: shield_round
+    title: Round shield
+    prefab: {fileID: 919132149155446097, guid: 13e79ae0b3b3b0345bce558f2b24e8e5, type: 3}
+    basePrice: 32
+    displayEuler: {x: 0, y: 180, z: 0}
+    gripEuler: {x: 0, y: 180, z: 0}
+    gripOffset: {x: 0, y: 0, z: 0}
+    benchEuler: {x: 90, y: 0, z: 0}
+    size: 0.62
+  - id: staff
+    title: Arcane staff
+    prefab: {fileID: 919132149155446097, guid: 513bc70d3ef780943a201812e5d0aa8a, type: 3}
+    basePrice: 50
+    displayEuler: {x: 0, y: 180, z: 0}
+    gripEuler: {x: 0, y: 180, z: 0}
+    gripOffset: {x: 0, y: 0, z: 0}
+    benchEuler: {x: 90, y: 0, z: 0}
+    size: 0.8
+  - id: dagger
+    title: Steel dagger
+    prefab: {fileID: 919132149155446097, guid: 8fd15d63933e32d4ba35255c389be30b, type: 3}
+    basePrice: 25
+    displayEuler: {x: 0, y: 180, z: 0}
+    gripEuler: {x: 0, y: 180, z: 0}
+    gripOffset: {x: 0, y: 0, z: 0}
+    benchEuler: {x: 90, y: 0, z: 0}
+    size: 0.62
+  - id: engineer_Wrench
+    title: Engineer wrench
+    prefab: {fileID: 919132149155446097, guid: b1802c5b2f6f6c942b63b01b37d08c25, type: 3}
+    basePrice: 38
+    displayEuler: {x: 0, y: 180, z: 0}
+    gripEuler: {x: 0, y: 180, z: 0}
+    gripOffset: {x: 0, y: 0, z: 0}
+    benchEuler: {x: 90, y: 0, z: 0}
+    size: 0.62
+  firstTarget: 250
+  targetGrowth: 1.45
+  successRates:
+  - 0.9
+  - 0.8
+  - 0.7
+  - 0.6
+  - 0.5
+  - 0.4
+  - 0.3
+  - 0.2
+  destructionRates:
+  - 0.05
+  - 0.08
+  - 0.12
+  - 0.18
+  - 0.25
+  - 0.32
+  - 0.4
+  - 0.5
+  priceMultipliers:
+  - 1
+  - 1.8
+  - 3.2
+  - 5.5
+  - 9
+  - 15
+  - 25
+  - 42
+  - 70

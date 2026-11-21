@@ -1,0 +1,2 @@
+PASS: prefab references, player rig, 6 supply mounts, 6 storage mounts, camera body culling, self-contained asset dependencies.
+2026-11-20T14:55:50.7926481Z
